@@ -1,4 +1,4 @@
---[[
+ --[[
     Fluent Interface Suite
     This script is not intended to be modified.
     To view the source code, see the 'src' folder on GitHub!
@@ -5302,7 +5302,7 @@ local aa = {
     end,
     [54] = function()
         local aa, ab, ac, ad, ae = b(54)
-        return = {
+        return {
     Name = "สีตามใจกู",
     Accent = Color3.fromRGB(180, 55, 90),
     AcrylicMain = Color3.fromRGB(40, 40, 40),
